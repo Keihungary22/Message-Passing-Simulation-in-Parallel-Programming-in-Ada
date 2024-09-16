@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\nakan\Desktop\past semester\6th\ada\end\2024end\2\default.gpr
+20240529190458 166fc5d3eb7cadfc3556594521b927c2
+[BOUND OBJECT FILES]
+C:\Users\nakan\Desktop\past semester\6th\ada\end\2024end\2\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\nakan\Desktop\past semester\6th\ada\end\2024end\2\obj\
+-LC:\Users\nakan\Desktop\past semester\6th\ada\end\2024end\2\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
